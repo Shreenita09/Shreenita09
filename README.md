@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python frameworks**
 
-- 💬 Ask me about **Java,C,Python**
+- 💬 Ask me about **Cpp,C,Python**
 
 - 📫 How to reach me **shreenita2003@gmail.com**
 
