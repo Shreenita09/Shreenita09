@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreenita Saha</h1>
 <h3 align="center">An ML enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Machine Learning projects**
+- 🔭 I’m currently working on **AI ML projects**
 
 - 🌱 I’m currently learning **Python frameworks**
 
